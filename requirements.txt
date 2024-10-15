@@ -1,5 +1,5 @@
-Flask==2.1.1
 gunicorn==22.0.0
 fillpdf==0.7.3
+Flask==1.1.4
 Werkzeug==0.16.1
 packaging==24.1
